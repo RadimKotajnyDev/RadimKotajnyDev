@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Parking spot checker](https://github.com/RadimKotajnyDev/parking-checker)
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **radimkotajny@gmail.com**
+- 🌱 I’m primarily learning **React**
 
 
 <h3 align="left">Languages and Tools I'm using || learning:</h3>
