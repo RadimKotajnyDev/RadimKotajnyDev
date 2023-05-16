@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radim</h1>
+<h1 align="center">Hi, I'm Radim 👋</h1>
 <h3 align="center">A frontend developer, student from Czechia</h3>
 
 - 🔭 I’m currently working on [Parking spot checker](https://github.com/RadimKotajnyDev/parking-checker)
