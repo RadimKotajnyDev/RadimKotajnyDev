@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Radim 👋</h1>
 <h3 align="center">A frontend developer, student from Czechia</h3>
 
-- 🔭 I’m currently working on [Price Matrix with Formik](https://github.com/RadimKotajnyDev/price-matrix-with-formik)
-
 - 🌱 I’m primarily learning **React**
 
 
