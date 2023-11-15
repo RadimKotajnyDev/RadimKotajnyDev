@@ -4,4 +4,4 @@
 <code style="color: #ADD8E6">console.log("Currently learning React!")</code>
 
 <h3>Checkout my projects</h3>
-<a href="https:/martinkotajny.com" target="_blank">Martin Kotajny Porftolio</a>
+<a href="https://martinkotajny.com" target="_blank">Martin Kotajny Porftolio</a>
