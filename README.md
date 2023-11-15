@@ -2,7 +2,7 @@
 <h2 align="center">Amateur Frontend developer, student from Czechia</h2>
 
 <code>useEffect(() => {  
-&nbsp;console.log("Currently learning React!")
+&nbsp;&nbsp;console.log("Currently learning React!")
 }, [])
 </code>
 
