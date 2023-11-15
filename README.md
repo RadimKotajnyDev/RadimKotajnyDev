@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Radim 👋</h1>
 <h2 align="center">Amateur Frontend developer, student from Czechia</h2>
 
-<code style="color: #ADD8E6">
-useEffect(() => {  
+<code>useEffect(() => {  
   console.log("Currently learning React!")
 }, [])
 </code>
